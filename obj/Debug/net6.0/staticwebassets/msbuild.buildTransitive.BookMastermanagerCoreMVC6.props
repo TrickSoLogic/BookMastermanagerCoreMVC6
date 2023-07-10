@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\BookMastermanagerCoreMVC6.props" />
+</Project>
